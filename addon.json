@@ -1,0 +1,8 @@
+{
+	"title"		:	"SBase",
+	"type"		:	"weapon",
+	"tags"		:	[ "fun", "build" ],
+	"ignore"	:
+	[
+	]
+}
